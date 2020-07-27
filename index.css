@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+    color: red;
+    text-align: right;
+    display: block;
+    font-size: 20px;
+}
+
+.google_images{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+    text-decoration: dashed;
+}
+.google_buttom, .lucky_buttom{
+    border: none;
+    width: 60%;
+    height: 40px;
+    color: rgb(97, 95, 95);
+    font-size: medium;
+    
+    
+}
+
+
+.google_search{
+   border-radius: 40px 40px;
+    width: 60%;
+    text-align: center;
+    margin: 5% auto;
+    display: block;
+    height: 40px;
+    border: 1px solid lightgray;
+
+
+}
+
+.botones{
+    display: grid;
+    grid-template-columns: 20% 20%;
+    width: 100%;
+    gap: 0% 1%;
+    height: 100px;
+    justify-content: center;
+    margin: 0 auto;
+}
